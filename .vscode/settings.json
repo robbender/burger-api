@@ -1,3 +1,36 @@
 {
-  "prettier.singleQuote": true
+  "prettier.singleQuote": true,
+  "workbench.colorCustomizations": {
+
+    "editor.background": "#000a18",
+    "sideBar.foreground": "#eceded",
+    "sideBarTitle.foreground": "#EEEE",
+    "sideBar.background": "#121212",
+    "activityBar.background": "#046268",
+    "tab.inactiveForeground": "#d7d6d6",
+    "list.hoverForeground": "#f0efef",
+    "list.hoverBackground": "#093658",
+    "editor.selectionHighlightBackground": "#611364",
+    "editor.selectionBackground": "#075f16",
+    "editor.renderLineHighlight": "all",
+    "editorLineNumber.foreground": "#615f5f",
+    "editorLineNumber.activeForeground": "#cb6438",
+    "editorGutter.background": "#000000",
+    "highlightLine.borderStyle": "solid",
+    "highlightLine.borderWidth": "2px",
+    "highlightLine.borderColor": "red",
+    "activityBar.activeBackground": "#046268",
+    "activityBar.activeBorder": "#f609e7",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#f609e7",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "statusBar.background": "#023437",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#046268",
+    "titleBar.activeBackground": "#023437",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#02343799",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  }
 }

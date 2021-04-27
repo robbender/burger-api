@@ -1,5 +1,5 @@
-# burger-api
-My Burger Api
+# burger-tutorial-api
+My Burger Tutorial Api
 
 
 Hello everyone! In this weeks video I show you how to make your own mock version of an API and deploy it onto the internet in just a few easy steps. This is a super stripped down version, so has no routing/controllers. This is thanks to the https://github.com/typicode/json-server​ package. Where you can get a mock REST API with zero coding in less than 30 seconds.

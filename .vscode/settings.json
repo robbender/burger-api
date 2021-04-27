@@ -1,7 +1,6 @@
 {
   "prettier.singleQuote": true,
   "workbench.colorCustomizations": {
-
     "editor.background": "#000a18",
     "sideBar.foreground": "#eceded",
     "sideBarTitle.foreground": "#EEEE",
@@ -32,5 +31,6 @@
     "titleBar.activeForeground": "#e7e7e7",
     "titleBar.inactiveBackground": "#02343799",
     "titleBar.inactiveForeground": "#e7e7e799"
-  }
+  },
+  "peacock.color": "#023437"
 }

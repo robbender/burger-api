@@ -3,6 +3,32 @@ My Burger Tutorial Api
 
 *I updated the name to be different for Heroku.*
 
+First make sure you have a Heroku account.
+
+(https://www.heroku.com/home)
+
+Heroku Terminal Commands:
+
+```console
+brew tap heroku/brew && brew install heroku
+```
+
+You may have to login first.
+
+You also may need to have heroku-node in your PATH, run:
+
+  echo 'export PATH="/usr/local/opt/heroku-node/bin:$PATH"' >> ~/.zshrc
+  
+After installation you may want to check the version of Heroku
+
+```console
+heroku --version
+```
+Next run this in the terminal:
+
+```console
+heroku create [name-of-the-app]
+```
 
 Hello everyone! In this weeks video I show you how to make your own mock version of an API and deploy it onto the internet in just a few easy steps. This is a super stripped down version, so has no routing/controllers. This is thanks to the https://github.com/typicode/json-server​ package. Where you can get a mock REST API with zero coding in less than 30 seconds.
 
